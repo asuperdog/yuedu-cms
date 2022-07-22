@@ -1,0 +1,6 @@
+cn\edu\sziit\service\impl\ItemServiceImpl.class
+cn\edu\sziit\controller\ItemController.class
+cn\edu\sziit\mapper\ItemMapper.class
+cn\edu\sziit\bean\Item.class
+cn\edu\sziit\service\ItemService.class
+cn\edu\sziit\SolrApp.class
